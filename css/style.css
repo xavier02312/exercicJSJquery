@@ -1,0 +1,13 @@
+img {
+    width: 25%;
+    display: block;
+    margin: 10px auto;
+}
+#alert {
+    display: none;
+}
+div .btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
